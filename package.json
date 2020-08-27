@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com:KalleoPinheiro/node-tdd-clean-architecture",
   "author": "Kalléo Pinheiro <kalleopinheiro@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.4.5"
+  }
 }
