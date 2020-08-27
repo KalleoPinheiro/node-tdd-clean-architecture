@@ -1,0 +1,9 @@
+{
+  "name": "node-tdd-clean-architecture",
+  "version": "1.0.0",
+  "description": "Udemy course to learn Node Js with the best architecture practices and test-driven development",
+  "main": "index.js",
+  "repository": "https://github.com:KalleoPinheiro/node-tdd-clean-architecture",
+  "author": "Kalléo Pinheiro <kalleopinheiro@hotmail.com>",
+  "license": "MIT"
+}
