@@ -5,8 +5,10 @@
     "allowJs": true,
     "checkJs": true,
     "strict": true,
+    "outDir": "./dist",
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true
-  }
+  },
+  "exclude": ["node_modules", "dist"]
 }
