@@ -7,7 +7,8 @@
   "author": "Kalléo Pinheiro <kalleopinheiro@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   },
   "devDependencies": {
     "@types/jest": "^26.0.10",
