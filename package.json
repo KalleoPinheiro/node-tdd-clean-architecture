@@ -7,8 +7,9 @@
   "author": "Kalléo Pinheiro <kalleopinheiro@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest --clearCache",
-    "test:staged": "jest --clearCache"
+    "test": "jest --passWithNoTests",
+    "test:watch": "jest --watchAll",
+    "test:staged": "jest --passWithNoTests"
   },
   "devDependencies": {
     "@types/jest": "^26.0.10",
